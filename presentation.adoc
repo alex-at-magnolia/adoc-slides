@@ -1,6 +1,5 @@
 = Connect git to SaaS
 :revealjsdir: reveal.js
-:imagesdir: ../images
 
 == {empty}
 
