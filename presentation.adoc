@@ -1,5 +1,5 @@
 = Connect git to SaaS
-:revealjsdir: reveal.js
+:revealjsdir: https://github.com/alex-at-magnolia/adoc-slides/tree/master/reveal.js/
 
 == {empty}
 
